@@ -8,9 +8,9 @@
 
 📖 Department of Computer Science and Engineering
 
-✒️velog: https://velog.io/@_coding_cat/posts
+✒️ velog: https://velog.io/@_coding_cat/posts
 
-📸instagram: https://www.instagram.com/s1lv3rrud/
+📸 instagram: https://www.instagram.com/s1lv3rrud/
 
 ## 😻Tech Stack
 
