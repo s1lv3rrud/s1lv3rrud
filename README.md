@@ -1,6 +1,8 @@
 ## 🐈EunGyeong's Github
 ![EunGyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=s1lv3rrud&theme=rose&show_icons=true)
 
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=s1lv3rrud)](https://solved.ac/s1lv3rrud)
+
 ## 😺Profile
 🏫 Sejong University
 
