@@ -1,5 +1,5 @@
 ## 🐈EunGyeong's Github
-
+![EunGyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=s1lv3rrud&theme=rose&show_icons=true)
 
 ## 😺Profile
 🏫 Sejong University
