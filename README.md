@@ -8,9 +8,12 @@
 
 📖 Department of Computer Science and Engineering
 
-✒️ velog: https://velog.io/@_coding_cat/posts
-
-📸 instagram: https://www.instagram.com/s1lv3rrud/
+<a href="https://velog.io/@_coding_cat/posts">
+  <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white">
+</a>
+<a href="https://www.instagram.com/s1lv3rrud/">
+  <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
 
 ## 😻Tech Stack
 
