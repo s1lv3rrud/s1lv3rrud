@@ -1,5 +1,5 @@
 ## 🐈EunGyeong's Github
-![EunGyeong's GitHub stats](https://github-readme-stats-mu-sooty-94.vercel.app/api?username=s1lv3rrud&theme=rose&show_icons=true&count_private=true)
+![GitHub stats](https://github-readme-stats-mu-sooty-94.vercel.app/api?username=s1lv3rrud&theme=rose&show_icons=true&count_private=true)
 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=s1lv3rrud)](https://solved.ac/s1lv3rrud)
 
