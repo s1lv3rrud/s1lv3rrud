@@ -1,18 +1,15 @@
 ## 🐈EunGyeong's Github
-![GitHub stats](https://github-readme-stats-mu-sooty-94.vercel.app/api?username=s1lv3rrud&theme=rose&show_icons=true&count_private=true)
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fs1lv3rrud&count_bg=%23FF9494&title_bg=%23FFA4A4&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
 
-[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=s1lv3rrud)](https://solved.ac/s1lv3rrud)
+![GitHub stats](https://github-readme-stats-mu-sooty-94.vercel.app/api?username=s1lv3rrud&theme=rose&show_icons=true&count_private=true)
 
 ## 😺Profile
 🏫 Sejong University
 
 📖 Department of Computer Science and Engineering
 
-<a href="https://velog.io/@_coding_cat/posts">
-  <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white">
-</a>
-<a href="https://www.instagram.com/s1lv3rrud/">
-  <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<a href="https://s1lv3rrud.tistory.com/">
+  <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">
 </a>
 
 ## 😻Tech Stack
@@ -39,6 +36,10 @@
 
 ## 😸Project
 
+
+
+## 🐈Algorithm
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=s1lv3rrud)](https://solved.ac/s1lv3rrud)
 
 
 <!--
