@@ -8,9 +8,7 @@
 
 📖 Department of Computer Science and Engineering
 
-<a href="https://s1lv3rrud.tistory.com/">
-  <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">
-</a>
+🖋️ Blog: [link](https://s1lv3rrud.tistory.com/)
 
 ## 😻Tech Stack
 
