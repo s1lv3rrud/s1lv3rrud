@@ -1,6 +1,14 @@
 ## 🐈EunGyeong's Github
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fs1lv3rrud&count_bg=%23FF9494&title_bg=%23FFA4A4&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/s1lv3rrud"
+  width="600"
+  height="300"
+/>
+</a>
+
 ![GitHub stats](https://github-readme-stats-mu-sooty-94.vercel.app/api?username=s1lv3rrud&theme=rose&show_icons=true&count_private=true)
 
 ## 😺Profile
