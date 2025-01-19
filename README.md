@@ -9,7 +9,7 @@
 >
 > 🏥 **Raywatt Inc.**  
 > 2022.09. ~ 2024.08.  
-> Windows Application Development(using C# and C++)
+> Windows Application Development (using C# and C++)
 >
 > ⛅️ **KakaoTech Bootcamp FullStack 1st Cohort**  
 > 2024.07. ~ 2024.12.  
@@ -21,6 +21,10 @@
 > 🌱 **Seeds**  
 > 2024.03. ~ 2024.12.  
 > Web Frontend Development (using Next.js)
+>
+> 📷 **Hanwha Vision**  
+> 2025.01 ~ ing  
+> Windows Application Client and Backend Developer (using C# and etc)
 
 [![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=s1lv3rrud)](https://solved.ac/s1lv3rrud)
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fs1lv3rrud&count_bg=%23FF9494&title_bg=%23FFA4A4&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
