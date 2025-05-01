@@ -24,7 +24,7 @@
 >
 > 📷 **Hanwha Vision**  
 > 2025.01 ~ ing  
-> Windows Application Client and Backend Developer (using C# and etc)
+> Windows Application Client and Backend Developer (using Qt(C++), C# and etc)
 
 [![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=s1lv3rrud)](https://solved.ac/s1lv3rrud)
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fs1lv3rrud&count_bg=%23FF9494&title_bg=%23FFA4A4&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
